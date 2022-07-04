@@ -15,14 +15,12 @@ body {
   }
 
   button {
-    padding: 9px 25px;
-    background: turquoise;
-    border: none;
-    border-radius: 50px;
+    display: none;
   }
 
   header span {
     color: white;
+    font-size:40px;
   }
 
 
@@ -96,5 +94,12 @@ body {
     width: 100%;
   }
   
+  .hiddenError{
+    display: none;
+}
+
+p{
+    color: #ff0000;
+}
 
   
