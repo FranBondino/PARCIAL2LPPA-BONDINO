@@ -1,5 +1,5 @@
-<h1 align="center">Parcial 2 Lenguajes de Programación para la administración</h1>
-<h3 align="center">Consignas</h3>
+<h1 align="center">Parcial N°2 Lenguajes de Programación para la Administración</h1>
+<h2 align="center">Consignas</h2>
 Crear una aplicación web utilizando solo HTML, CSS y Javascript. La misma deberá contar con 2 páginas:
 - Página de login (Inicio de sesión).
 - Página de dashboard (tabla con información).
@@ -10,3 +10,6 @@ diseño agradable e intuitivo, respetando los estándares de UI/UX básicos (com
 y tipos de fuentes, textos claros, etc) utilizando únicamente CSS sin librerías de terceros. Ambas pantallas
 deberán contar con el mismo diseño de layout, conservando la misma estética. No es necesario que el
 diseño sea responsivo, solo es requerido que sea vea correctamente en pantallas Desktop.
+<h3>Links</h3>
+-Github Pages: https://franbondino.github.io./
+
