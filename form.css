@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    height: 100vh;
+    background-color: grey;
+  }
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+    background-color: #000;
+  }
+
+  button {
+    padding: 9px 25px;
+    background: turquoise;
+    border: none;
+    border-radius: 50px;
+  }
+
+  header span {
+    color: white;
+  }
+
+
+  .login-container {
+    width: 320px;
+    height: 350px;
+    background: black;
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+    padding: 70px 30px;
+  }
+  
+  .login-container h1 {
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+  }
+  
+  .login-container label {
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+    display: block;
+  }
+  
+  .login-container input {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .login-container input[type="mail"], .login-container input[type="password"] {
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: rgb(22, 22, 22);
+    font-size: 16px;
+  }
+  
+  .login-container input[type="submit"] {
+    border: none;
+    outline: none;
+    height: 40px;
+    background: turquoise;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+  }
+  
+  .login-container input[type="submit"]:hover {
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+  }
+
+  footer {
+    padding: 20px;
+    margin-top: auto;
+    position: fixed;
+    bottom: 0;
+    background-color: black;
+    color: #fff;
+    border: 1px solid grey;
+    text-align: center;
+    width: 100%;
+  }
+  
+
+  
