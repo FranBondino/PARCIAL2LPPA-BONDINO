@@ -1,8 +1,8 @@
 <h1 align="center">Parcial N°2 Lenguajes de Programación para la Administración</h1>
 <h2 align="center">Consignas</h2>
-Crear una aplicación web utilizando solo HTML, CSS y Javascript. La misma deberá contar con 2 páginas:
-- Página de login (Inicio de sesión).
-- Página de dashboard (tabla con información).
+Crear una aplicación web utilizando solo HTML, CSS y Javascript. La misma deberá contar con 2 páginas:<br>
+- Página de login (Inicio de sesión).<br>
+- Página de dashboard (tabla con información).<br>
 Cada página deberá contar con su archivo HTML, CSS y Javascript por separado, sumado a un archivo CSS
 para resetear los estilos por defecto que aplican los navegadores web (archivo normalize.css o reset.css) y
 otro archivo CSS opcional para compartir estilos entre pantallas. Ambas pantallas deberán contar con un
