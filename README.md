@@ -11,12 +11,12 @@ y tipos de fuentes, textos claros, etc) utilizando únicamente CSS sin librería
 deberán contar con el mismo diseño de layout, conservando la misma estética. No es necesario que el
 diseño sea responsivo, solo es requerido que sea vea correctamente en pantallas Desktop.
 <h2 align="center">Instrucciones</h2>
-Para clonar el repositorio utilizando git desde la terminal:
--Desde el repositorio, seleccionar el boton clonar.
--Copiar el comando clone.
--Desde una terminal, posicionarse en el directorio local donde se quiera clonar el repositorio-
--Pegar el comando en la terminal, por ejemplo:
-$ git clone https://username@bitbucket.org/teamsinspace/documentation-tests.git
+Para clonar el repositorio utilizando git desde la terminal:<br>
+-Desde el repositorio, seleccionar el boton clonar.<br>
+-Copiar el comando clone.<br>
+-Desde una terminal, posicionarse en el directorio local donde se quiera clonar el repositorio<br>
+-Pegar el comando en la terminal, por ejemplo:<br>
+$ git clone https://github.com/FranBondino/PARCIAL2LPPA-BONDINO.git
 
 <h3>Links</h3>
 -Github Pages: https://franbondino.github.io./
