@@ -7,6 +7,7 @@
     <title>PARCIAL 2 LPPA</title>
     <link rel="stylesheet" href="index.css">
     <link rel="stylesheet" href="normalize.css">
+    <script src="form.js"></script>
   </head>
   <body>
     <header>
@@ -18,12 +19,12 @@
     <main>
         <div class="login-container">
             <h1>Formulario de Login</h1>
-            <form>
+            <form id="formUser">
                 <label for="mail">Mail</label>
-                <input type="mail" placeholder="Ingrese su mail" required>
+                <input type="mail" name="mailInput" id="mailInput" placeholder="Ingrese su mail" required>
                 <label for="password">Constraseña</label>
-                <input type="password" placeholder="Ingrese su contraseña" required>
-                <input type="submit" value="login">
+                <input type="password" name="passwordInput" id="passwordInput" placeholder="Ingrese su contraseña" required>
+                <input type="submit" id="submit-btn" value="login">
                 <p id="email-error" class="hiddenError"> Formato de mail incorrecto </p>
                 <p id="login-fail" class="hiddenError"> Mail y/o contraseña incorrectos </p>
             </form>
